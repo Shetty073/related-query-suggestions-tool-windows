@@ -1,0 +1,3 @@
+D:\git-projects\related-query-suggestions-tool-windows\release\Related.pdb
+D:\git-projects\related-query-suggestions-tool-windows\release\HelperLibrary.pdb
+D:\git-projects\related-query-suggestions-tool-windows\release\Related.exe

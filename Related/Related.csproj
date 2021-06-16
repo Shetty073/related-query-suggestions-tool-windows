@@ -4,10 +4,38 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWPF>true</UseWPF>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>related_software_key.pfx</AssemblyOriginatorKeyFile>
+    <DelaySign>false</DelaySign>
+    <Version>0.0.1</Version>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <StartupObject>Related.App</StartupObject>
+    <Authors>Ashish Shetty</Authors>
+    <Copyright>Ashish Shetty</Copyright>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/Shetty073/related-query-suggestions-tool-windows</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Shetty073/related-query-suggestions-tool-windows</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>seo, tool, keyword, suggestions, query</PackageTags>
+    <PackageReleaseNotes>Alpha Build</PackageReleaseNotes>
+    <AssemblyVersion>0.0.0.1</AssemblyVersion>
+    <FileVersion>0.0.0.1</FileVersion>
+    <PackageIcon>icon.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\HelperLibrary\HelperLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\icons\icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\LICENSE.md">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
