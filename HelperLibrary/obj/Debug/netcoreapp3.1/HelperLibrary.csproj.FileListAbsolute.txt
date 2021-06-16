@@ -1,0 +1,17 @@
+D:\git-projects\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.deps.json
+D:\git-projects\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.dll
+D:\git-projects\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.pdb
+D:\git-projects\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.AssemblyInfoInputs.cache
+D:\git-projects\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.AssemblyInfo.cs
+D:\git-projects\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.csproj.CoreCompileInputs.cache
+D:\git-projects\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.dll
+D:\git-projects\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.pdb
+D:\git-projects\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.csprojAssemblyReference.cache
+D:\git-projects\related-query-suggestions-tool-windows\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.deps.json
+D:\git-projects\related-query-suggestions-tool-windows\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.dll
+D:\git-projects\related-query-suggestions-tool-windows\HelperLibrary\bin\Debug\netcoreapp3.1\HelperLibrary.pdb
+D:\git-projects\related-query-suggestions-tool-windows\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.AssemblyInfoInputs.cache
+D:\git-projects\related-query-suggestions-tool-windows\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.AssemblyInfo.cs
+D:\git-projects\related-query-suggestions-tool-windows\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.csproj.CoreCompileInputs.cache
+D:\git-projects\related-query-suggestions-tool-windows\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.dll
+D:\git-projects\related-query-suggestions-tool-windows\HelperLibrary\obj\Debug\netcoreapp3.1\HelperLibrary.pdb
